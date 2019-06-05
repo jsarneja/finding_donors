@@ -1,4 +1,4 @@
-# Dog Breed classifier using CNN
+# Income prediction for potential donor targeting
 We employ several supervised algorithms to accurately predict individuals' income using data collected from the 1994 U.S. Census. This sort of task can arise in a non-profit setting, where organizations survive on donations and would be greatly benefitted by such a model for better targeting of specific individuals. Aim is to construct a model that accurately predicts whether an individual makes more than $50,000. We try out three models viz. `SVM`, `Decision Trees` and `AdaBoost`. We finally choose the `AdaBoost` implementation as it had higher accuracy on test-set and significantly faster training time compared to the `SVM` algorithm
 
 ## Documentation
